@@ -5,7 +5,7 @@ Since the boards do not have a dedicated chip to handle serial communication, it
 
 More info: [https://www.arduino.cc/en/Guide/ArduinoLeonardoMicro](https://www.arduino.cc/en/Guide/ArduinoLeonardoMicro)
 
-##Usage
+## Usage
 
 Simple-CDC_Reseter helps to Reset the board using the following command:
 
