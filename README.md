@@ -15,7 +15,7 @@ Where *<port_to_reset>* is the port to reset.
 
 Linux Example: `java -jar Simple-CDC-Reseter.jar /dev/ttyACM0`
 
-Simple-CDC-Rester can be used with [http://www.nongnu.org/avrdude/](AVRDUDE).
+Simple-CDC-Rester can be used with [AVRDUDE](http://www.nongnu.org/avrdude/).
 
 Linux Example:
 
